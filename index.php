@@ -7,7 +7,7 @@
 			/**
 			* Página de acceso principal
 			*
-			* Se incluye el resultado de la llamada a los principales métodos de clase sin formato
+			* Se incluye los resultados de la llamada a los principales métodos de clase sin formato
 			* 
 			* @package TIR
 			* @license http://creativecommons.org/license/by-sa/4.0/legalcode Creative 
